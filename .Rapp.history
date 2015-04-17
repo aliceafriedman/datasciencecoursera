@@ -1,0 +1,31 @@
+pwd
+get wd
+getwd
+getwd()
+ls
+ls()
+source("myfunction.R")
+getwd()
+cd
+cd()
+ls()
+getwd()
+source("myfunction.R")
+y<-5
+5*y
+clear
+y
+rm y
+rm "y"
+rm(y
+)
+rm(y)
+y<-10
+y
+ls()
+myfunction(y)
+myfunction(4:10)
+myfunction(4:10)
+mode(y)
+length(y)
+y
